@@ -10,7 +10,7 @@ A Software Engineering student from McGill University with a passion for constru
 - **Pure Cobalt**: Back-End Developer (Part-Time)
 - **Evolvic**: Software Engineer (Co-op > Part-Time)
 
-You can find a detailed overview of my roles and achievements in these organizations [here](https://github.com/AlecTufenkjian?tab=repositories).
+You can find a detailed overview of my purely personal projects [here](https://github.com/AlecTufenkjian?tab=repositories).
 
 ### 🛠️ Tools & Technologies
 
