@@ -2,11 +2,11 @@
 
 # Hello, I'm Alec Tufenkjian! 👋
 
-A Software Engineering student from McGill University with a passion for constructing and implementing robust back-end solutions. My journey has spanned across projects related to SaaS, Serverless services, E-Commerce apps, and CRM solutions. Proficient with cloud computing platforms like AWS and GCP. Agile and Scrum are second nature to me!
+A Software Engineer building highly concurrent, asynchronous distributed systems on the JVM
 
 ### 💼 Professional Experience
 
-- **Morgan Stanley**: Technology Analyst (Co-op)
+- **Morgan Stanley**: Technology Analyst
 - **Pure Cobalt**: Back-End Developer (Part-Time)
 - **Evolvic**: Software Engineer (Co-op > Part-Time)
 
@@ -14,9 +14,8 @@ You can find a detailed overview of my purely personal projects [here](https://g
 
 ### 🛠️ Tools & Technologies
 
-- **Languages**: JavaScript, Java, Ruby, PHP, C, Bash, HTML, CSS, and more.
-- **Databases**: MySQL, MongoDB
-- **Cloud Platforms**: GCP, AWS, DigitalOcean
+- **Languages**: Scala, Java, Python, JS, C++, ARM Assembly and more.
+- **Databases**: Bitemporal databases, SQL, PostgreSQL, MongoDB, Redis
 - **Frameworks & Libraries**: Spring, React, Vue.js, Node.js, Express.js, Ruby On Rails, CakePHP, and more.
 
 ### 👋🏻 Connect with Me
