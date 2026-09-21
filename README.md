@@ -2,7 +2,7 @@
 
 # Hello, I'm Alec Tufenkjian! 👋
 
-A Software Engineer building highly concurrent, asynchronous distributed systems on the JVM
+A Software Engineer building highly concurrent, asynchronous distributed systems on the JVM.
 
 ### 💼 Professional Experience
 
